@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thiagocordeiro2009
 - 👀 I’m interested in vagas de dev Junior
 - 🌱 I’m currently learning Html | Css | Javascript | node.js | Mysql
-- 💞️ I’m looking to collaborate on desenvolvimento projetos 
+- 💞️ I’m looking to collaborate em desenvolvimento de projetos.
 - 📫 How to reach me ...
 
 <!---
