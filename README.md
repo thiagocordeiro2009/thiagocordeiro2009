@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @thiagocordeiro2009
+- Desenvolvedor Front end Jr em formação.
 - 👀 I’m interested in vagas de dev Junior
 - 🌱 I’m currently learning Html | Css | Javascript | node.js | Mysql
 - 💞️ I’m looking to collaborate em desenvolvimento de projetos.
